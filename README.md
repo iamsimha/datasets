@@ -4,4 +4,4 @@ Repositiry to easily download datasets. The datasets are
 2. rostd: https://github.com/vgtomahawk/LR_GC_OOD/tree/master/code/data
 3. snips: https://github.com/MiuLab/SlotGated-SLU/tree/master/data/snips
 4. snips_benchmark: https://github.com/sonos/nlu-benchmark/tree/master/2016-12-built-in-intents 
-
+5. star dataset: https://github.com/asappresearch/gold/blob/master/data.tar.gz (use target/star.json)
